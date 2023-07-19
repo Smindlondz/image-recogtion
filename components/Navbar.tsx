@@ -12,7 +12,7 @@ export default function Navbar() {
       </Link>
       <a
         className="relative overflow-hidden rounded-full bg-black px-20 sm:px-24 py-6 ring-red-500/50 ring-offset-black will-change-transform focus:outline-none focus:ring-1 focus:ring-offset-2"
-        href="https://github.com/Smindlondz/"
+        href="https://github.com/Smindlondz/image-recogtion"
         target="_blank"
         rel="noreferrer"
       >
